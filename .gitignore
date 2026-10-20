@@ -1,0 +1,9 @@
+
+node_modules/
+.env
+app.js.before-encoding-fix.backup
+app.js.clean-backup
+
+# Local backups
+*.backup
+*.before-*
