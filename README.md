@@ -32,7 +32,7 @@ The topic structure follows the public Microsoft Learn AZ-900 study guide, which
 
 Official source: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900
 
-The current curated bank contains 30 original educational practice questions, evenly split across the three skill groups. It is a starter learning set, not a complete representation of every exam objective. Questions are not copied from real exam items, are not an official exam bank, and do not claim to predict exam performance. Verify concepts against current Microsoft Learn documentation as Azure services and exam objectives change.
+The current curated bank contains 102 original educational practice questions, evenly split across the three skill groups (34 per skill group). It is a starter learning set, not a complete representation of every exam objective. Questions are not copied from real exam items, are not an official exam bank, and do not claim to predict exam performance. Verify concepts against current Microsoft Learn documentation as Azure services and exam objectives change.
 
 ## Scoring rules
 
